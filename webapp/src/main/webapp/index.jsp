@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to DevOps YASMINE  !!! GIT----> jenkins---> webapp.war--->docker(prod) sur VM .
-</h1>
+<h1> Hello, Welcome to DevOps YASMINE  !!! Deploiement et push image vers dockerhub</h1>
 
